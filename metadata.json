@@ -1,0 +1,7 @@
+{
+  "name": "Masjid Clock",
+  "description": "Android TV Masjid Clock display featuring real-time analog clock, next prayer countdown, live local weather widget, prayer times schedule, hijri date, and announcement ticker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
